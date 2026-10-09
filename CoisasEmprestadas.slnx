@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="CoisasEmprestadas.Dados/CoisasEmprestadas.Dados.csproj" />
+  <Project Path="CoisasEmprestadas.Negocio/CoisasEmprestadas.Negocio.csproj" />
+  <Project Path="CoisasEmprestadas.UI/CoisasEmprestadas.UI.csproj" />
+</Solution>
